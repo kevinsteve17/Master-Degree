@@ -1,3 +1,8 @@
+/*
+    Maestria 2018 
+*/
+
+
 #ifndef SOCKIT_OWM_H
 #define SOCKIT_OWM_H
 #include "systemc.h" 
